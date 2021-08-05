@@ -3,11 +3,11 @@
 
 
 - [ ] Cybersecurity Essentials
-unchecked # [checkbox:unchecked] Cybersecuritty Management
-unchecked # [checkbox:unchecked] Information Technology Management
-unchecked # [checkbox:unchecked] Web Application Penetration Testing
-unchecked # [checkbox:unchecked] Web Application Security Testing with Burp Suite
-unchecked # [checkbox:unchecked] Mobile Application Penetration Testing of Android Applications
-unchecked # [checkbox:unchecked] CyberSafe Implementer
-unchecked # [checkbox:unchecked] Cybersecurity Strategy and Risk Management
-unchecked # [checkbox:unchecked] Cybersecuriy Analyst
+- [ ] Cybersecuritty Management
+- [ ] Information Technology Management
+- [ ] Web Application Penetration Testing
+- [ ] Web Application Security Testing with Burp Suite
+- [ ] Mobile Application Penetration Testing of Android Applications
+- [ ] CyberSafe Implementer
+- [ ] Cybersecurity Strategy and Risk Management
+- [ ] Cybersecuriy Analyst
