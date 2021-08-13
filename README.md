@@ -3,7 +3,7 @@
 
 
 - [x] Cybersecurity Essentials
-- [ ] Cybersecuritty Management
+- [x] Cybersecuritty Management
 - [ ] Information Technology Management
 - [ ] Web Application Penetration Testing
 - [ ] Web Application Security Testing with Burp Suite
